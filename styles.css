@@ -1,0 +1,55 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #881997;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 6rem;
+  color: #dd37ab;
+}
+
+p {
+  font-size: 30px;
+  color: rgb(96, 199, 48);
+  font-family: 'Lobster', cursive;
+}
+
+img {
+  width: 60%;
+}
+#btn{
+  height: 80px;
+  width: 180px;
+  border: 2px solid red;
+  background-color: #23ac5c;
+  margin: 5% 37% 0% 43.3%;
+  border-radius: 10px;
+  font-size: 45px;
+  font-family: 'Lobster', cursive;
+}
+
+footer {
+  margin-top: 5%;
+  color: #c21f1f9a;
+  text-align: center;
+  font-family: 'Lobster';
+
+}
+#copy{
+  font-size: 30px;
+}
+
